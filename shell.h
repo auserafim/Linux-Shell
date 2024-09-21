@@ -25,6 +25,7 @@ int ownCmdHandler(char** );
 int parsePipe(char* , char** );
 void parseSpace(char* , char** );
 int processString(char* , char** , char** );
+void find_path(char*);
 
 
 #endif
